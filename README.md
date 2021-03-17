@@ -1,1 +1,1 @@
-# watch-party-server
+# Watch Together Server
