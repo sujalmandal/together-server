@@ -1,4 +1,4 @@
-package com.b.s.watchpartyserver;
+package com.b.s.togetherserver;
 
 import org.junit.jupiter.api.Test;
 
