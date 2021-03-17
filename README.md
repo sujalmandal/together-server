@@ -1,1 +1,1 @@
-# Watch Together Server
+# Together Server
