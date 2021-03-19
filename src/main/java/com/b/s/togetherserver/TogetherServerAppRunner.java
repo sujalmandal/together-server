@@ -1,12 +1,12 @@
 package com.b.s.togetherserver;
 
-public final class TogetherServerAppRunner {
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-    private TogetherServerAppRunner() {
-        
-    }
+@SpringBootApplication
+public class TogetherServerAppRunner {
 
     public static void main(String[] args) {
-        
+       SpringApplication.run(TogetherServerAppRunner.class, args);
     }
 }
